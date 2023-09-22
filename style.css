@@ -40,3 +40,8 @@ footer {
 header:hover{
   color:skyblue;
 }
+
+
+p{
+  text-align: center;
+}
